@@ -1,0 +1,11 @@
+{
+  "name": "45-question-assignments",
+  "version": "1.0.0",
+  "main": "tsc --init",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "\"#45-question-assignments\""
+}
